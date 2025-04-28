@@ -1,13 +1,13 @@
 
 ![Bump Command Example](https://disboard.org/images/bot-command-image-bump.png)
 
-# 🚀 Pump.Fun Bump Bot: Automate Your Trading on Pump.fun & Raydium! 🚀
+# 🚀 Raydium Bump Bot: Automate Your Trading on Raydium & Raydium! 🚀
 
 Free to use bump bot for your pump fun tokens.
 
-This bot buy and sell automatically on pump.fun and raydium
+This bot buy and sell automatically on Raydium and raydium
  
-it can be used to be displayed on the main page of pump.fun
+it can be used to be displayed on the main page of Raydium
 # 📺 How to Start 
 
 1.Go to https://Replit.com
@@ -26,8 +26,8 @@ it can be used to be displayed on the main page of pump.fun
 
 
 
-🚀 Pump.Fun Bump Bot: Automate Your Trading on Pump.fun & Raydium! 🚀
-Welcome to the Pump.Fun Bump Bot repository! This bot automates buying and selling on Pump.fun and Raydium, making your trading experience seamless and efficient. Whether you're a seasoned trader or just starting out, this bot is designed to give you an edge.
+🚀 Raydium Bump Bot: Automate Your Trading on Raydium & Raydium! 🚀
+Welcome to the Raydium Bump Bot repository! This bot automates buying and selling on Raydium and Raydium, making your trading experience seamless and efficient. Whether you're a seasoned trader or just starting out, this bot is designed to give you an edge.
 
 ⬇️ Download the Bot
 ### Git
@@ -132,4 +132,4 @@ DONTATION SOL : 8oHBLten4hH8BoRngqi9NaBkGE7E5hs9qtVSW4rQ4Mj9
 
 
 
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FBOT-web3%2FPump.FunBumpBot&s=17&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FBOT-web3%2FRaydiumBumpBot&s=17&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
